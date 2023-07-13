@@ -9,12 +9,12 @@ public class App {
 
         limpartela();
 
-        // Criando e modificando um objeto do tipo Pessoa
+        // Criação e modificação de um objeto da classe Pessoa
         Pessoa p1 = new Pessoa();
         p1.setNome("Maiara Santos");
         p1.setIdade(25);;
         
-        // Mostrar dados da classe Pessoa
+        // Mostra os dados da classe Pessoa
         p1.mostrarDados();
 
         Pessoa p2 = new Pessoa();
